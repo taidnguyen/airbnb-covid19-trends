@@ -7,16 +7,16 @@ Using web-scraped data from [InsideAirbnb](http://insideairbnb.com/), [Plotly](h
 To run the code, you will have to download the raw data and rename them following format in `/data_sample/`. You can also check out the [blog post](https://taidn.site/airbnb-covid19-trends/).
 
 #### Melbourne
-![melbourne](melbourne.png)
+![melbourne](/images/melbourne.png)
 
 #### Amsterdam
-![amsterdam](amsterdam.png)
+![amsterdam](/images/amsterdam.png)
 
 #### Los Angeles
-![losangeles](losangeles.png)
+![losangeles](/images/losangeles.png)
 
 #### New York City
-![nyc](newyorkcity.png)
+![nyc](/images/newyorkcity.png)
 
 #### Rio de Janeiro
-![rio](rio.png)
+![rio](/images/rio.png)

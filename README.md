@@ -5,3 +5,18 @@ As COVID-19 continues its spread, how are Airbnb hosts around the world reacting
 Using web-scraped data from [InsideAirbnb](http://insideairbnb.com/), [Plotly](https://plotly.com/), and Mapbox, I build a few animations to see if how home sharing density has changed in the past 4 months (December 2019 - March 2020) for Amsterdam, Los Angeles, Melbourne, New York City, Rio de Janeiro, Tokyo, and Venice.
 
 To run the code, you will have to download the raw data and rename them following format in `/data_sample/`. You can also check out the [blog post](https://taidn.site/airbnb-covid19-trends/).
+
+#### Melbourne
+![melbourne](melbourne.png)
+
+#### Amsterdam
+![amsterdam](amsterdam.png)
+
+#### Los Angeles
+![losangeles](losangeles.png)
+
+#### New York City
+![nyc](newyorkcity.png)
+
+#### Rio de Janeiro
+![rio](rio.png)
